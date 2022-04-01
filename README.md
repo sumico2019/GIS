@@ -10,4 +10,7 @@
 # 03=Shapefile for Shapefile for Library
 # 04=Geocodingのシェープファイル
 # 04=Shapefile for Shapefile for Geocoding
-
+# 05=Cross tabulationのシェープファイル
+# 05=Shapefile for Shapefile for Cross tabulation
+# 06=Covering populationのシェープファイル
+# 06=Shapefile for Shapefile for Covering population
