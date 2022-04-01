@@ -6,3 +6,5 @@
 # 01=Shapefile for Tokyo 23wards
 # 02=Spatial joinのシェープファイル
 # 02=Shapefile for Shapefile for Spatial join
+# 03=Libraryのシェープファイル
+# 03=Shapefile for Shapefile for Library
