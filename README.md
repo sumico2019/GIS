@@ -4,3 +4,5 @@
 # 00=GIS Basics + GIS Exercises
 # 01=Tokyo 23wardsのシェープファイル
 # 01=Shapefile for Tokyo 23wards
+# 02=Spatial joinのシェープファイル
+# 02=Shapefile for Shapefile for Tokyo 23wards
