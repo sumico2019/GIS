@@ -8,3 +8,6 @@
 # 02=Shapefile for Shapefile for Spatial join
 # 03=Libraryのシェープファイル
 # 03=Shapefile for Shapefile for Library
+# 04=Geocodingのシェープファイル
+# 04=Shapefile for Shapefile for Geocoding
+
